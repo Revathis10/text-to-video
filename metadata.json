@@ -1,0 +1,6 @@
+{
+  "name": "Text to Video Generator",
+  "description": "An AI application that converts text prompts into video with real-time processing and direct download links.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
